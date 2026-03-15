@@ -1,0 +1,11 @@
+# Veri manipülasyonu ve matematiksel işlemler için
+import numpy as np
+
+# Kayıp fonksiyonunu minimize etmek (sayısal MLE) için
+import scipy.optimize as opt
+
+# Teorik PMF dağılımını elde etmek için
+from scipy.stats import poisson
+
+# Grafikleri çizdirmek ve görselleştirmek için
+import matplotlib.pyplot as plt
